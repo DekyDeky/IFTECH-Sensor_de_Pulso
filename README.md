@@ -5,5 +5,5 @@ O presente código faz parte de um projeto para a competição IFTECH do campus 
 O código presente aqui tem a função de ler o sensor de pulso e transmitir seus dados para o display LCD. Segue abaixo os componentes utilizados:
 
 * Arduino UNO R3
-* Display LCD 0.96'' 80x160 ST7735S
-* Sensor de Pulso
+* [Display LCD 0.96'' 80x160 ST7735S](https://www.robocore.net/display/display-lcd-ips-0_96-rgb-80x160)
+* [Sensor de Pulso](https://pulsesensor.com)
