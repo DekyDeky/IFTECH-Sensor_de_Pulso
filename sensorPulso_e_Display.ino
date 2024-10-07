@@ -18,7 +18,7 @@ Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_RST); //Cria instânci
 
 void setup() {
 
-  Serial.begin(115200); 
+  Serial.begin(9600); 
     pulseSensor.analogInput(PulseWire);   
     pulseSensor.blinkOnPulse(LED);       
     pulseSensor.setThreshold(Threshold);
